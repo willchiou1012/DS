@@ -10,7 +10,6 @@
 * 📚 專案說明
 * 🔆 大語言模型
 * 🔍 使用工具
-* 📈 過程製作
 * 💻 程式碼
 ***
 ## 📚 專案說明
@@ -26,6 +25,15 @@
 ***
 ## 🔆 大語言模型
 ### Hugging Face
-> Image-To-Text
-> Text-To-Text
-> Text-To-Speech
+> ### Image-To-Text (https://huggingface.co/Salesforce/blip-image-captioning-base)
+> ### Text-To-Text (https://huggingface.co/google/flan-t5-base)
+> ### Text-To-Speech (https://huggingface.co/coqui/XTTS-v2)
+***
+## 🔍 使用工具
+> ### 1.Python
+> ### 2.Visual Code
+> ### 3.Colab
+> ### 4.Excel
+***
+## 💻 程式碼
+> ### 控制燈泡開關
